@@ -1,6 +1,6 @@
 
 
-Final project Udemy Course The Complete Web Developer 2020 - API part BackEnd
+Final project Udemy Course The Complete Web Developer 2020 - FRONT END
 
 
 
